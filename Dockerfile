@@ -13,4 +13,4 @@ EXPOSE 8080
 # Run the Spring Boot application
 ENTRYPOINT ["java", "-jar", "app.jar"]
 
-#Test for CI
+#Test for CI for Jenkin using Docker
